@@ -1,0 +1,1074 @@
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your ADMINID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Flight Id
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter flight Company
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid flight company it must be 3 to 25 char long without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter flight Company
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Departure Date
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your ADMINID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Flight Id
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid Flight Id it must be 7 to 14 char long without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Flight Id
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid Flight Id it must be 7 to 14 char long without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Flight Id
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter flight Company
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid flight company it must be 3 to 25 char long without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter flight Company
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Departure Date
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - date should be of future
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Departure Date
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Departure Time
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Arrival Date
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter  Arrival Time
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid Arrival Time it must be greater then departure time
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter  Arrival Time
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Source
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid source city
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Source
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid source city
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Source
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid source city
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Source
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Destination
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Total Seats
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid total seats 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Total Seats
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Fare of Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid fare
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Fare of Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Flight Added Successfully
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter Flight Id which reserved seat you are looking for
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - There is no Reserved Ticket available for this flight!
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=AirAsia110, flightCompany=AirAsia, departureDate=09/03/2020, departureTime=5:30 PM, arrivalDate=10/03/2020, arrivalTime=6:17 PM, source=Bengaluru, destination=Ladakh, fare=4980.0, totalSeats=50, availableSeat=50)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=ghyujikfg435@#, flightCompany=hgj, departureDate=07/04/2020, departureTime=00:00, arrivalDate=7/04/2020, arrivalTime=00:01, source=shdja, destination=ihajshjA, fare=501.0, totalSeats=31, availableSeat=31)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=08/03/2020, departureTime=5:30 PM, arrivalDate=09/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 1 for User login
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 2 for User Registration
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 3 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Your Choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter your USERID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Invalid Credential! try again
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Would you like to continue
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Press Y
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 1 for User login
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 2 for User Registration
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 3 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Your Choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter your USERID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Invalid Credential! try again
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Would you like to continue
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Press Y
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 1 for User login
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 2 for User Registration
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 3 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Your Choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter User Id
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter First Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - invalid first name it must contain only alphabets without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter First Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - invalid first name it must contain only alphabets without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter First Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Last Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - invalid last name it must contain only alphabets without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Last Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - invalid last name it must contain only alphabets without space
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Last Name
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Email Address
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Invalid Email Address it must be like xyz@example.com
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Email Address
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Invalid password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Residence
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Mobile Number
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Nationality
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter Gender
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - User Register Successfully
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 1 for Book Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 2 for Cancel Reserved Ticket
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 3 for Update User details
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 4 for view your reserved tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter 5 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.UserController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your ADMINID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Invalid Credential! try again
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Press Y for Continue
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your ADMINID
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your password
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - All Users:UserInfoBean(userId=FSAGDHJF23456, firstName=EWERYUTY, lastName=AWERTYU, nationality=RETYU, residence=WERTHY,WERTYU, mobile=4566666678, mail=SHRTYU@FU, password=WERTY234, role=user, gender=ATYUA)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=AirAsia110, flightCompany=AirAsia, departureDate=09/03/2020, departureTime=5:30 PM, arrivalDate=10/03/2020, arrivalTime=6:17 PM, source=Bengaluru, destination=Ladakh, fare=4980.0, totalSeats=50, availableSeat=50)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=ghyujikfg435@#, flightCompany=hgj, departureDate=07/04/2020, departureTime=00:00, arrivalDate=7/04/2020, arrivalTime=00:01, source=shdja, destination=ihajshjA, fare=501.0, totalSeats=31, availableSeat=31)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Available Flights:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=08/03/2020, departureTime=5:30 PM, arrivalDate=09/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 1 for Add Flight
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 2 for View Reserved Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 3 for View Cancelled Tickets
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 4 for View All Users
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 5 for  View All the Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter 6 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.AdminController  - Enter your choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 1 for Search Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 2 for Show Company Contacts
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 3 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Invalid Choice
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 1 for Search Flights
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 2 for Show Company Contacts
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 3 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter the Source
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter the destination
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Invalid destination city
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter the destination
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - There is no flight available from QRETUG to FASRIYU
+[main] INFO  com.capgemini.airlinereservationsystem.controller.GuestController  - Enter 1 for go back
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Wrong choice! try again 
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Welcome to Airline Reservation System
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 1 for Admin Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 2 for User Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter 3 for Guest Controller
+[main] INFO  com.capgemini.airlinereservationsystem.controller.MainController  - Enter what you want
+[main] INFO    - Welcome to Airline Reservation System
+[main] INFO    - Enter 1 for Admin Controller
+[main] INFO    - Enter 2 for User Controller
+[main] INFO    - Enter 3 for Guest Controller
+[main] INFO    - Enter what you want
+[main][main][main][main][main][main][main][main][main][main][main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO    [main] INFO   - Welcome to Airline Reservation System
+[main] INFO   - Enter 1 for Admin Controller
+[main] INFO   - Enter 2 for User Controller
+[main] INFO   - Enter 3 for Guest Controller
+[main] INFO   - Enter what you want
+[main] INFO   - Welcome to Airline Reservation System
+[main] INFO   - Enter 1 for Admin Controller
+[main] INFO   - Enter 2 for User Controller
+[main] INFO   - Enter 3 for Guest Controller
+[main] INFO   - Enter what you want
+[main] - Welcome to Airline Reservation System
+[main] - Enter 1 for Admin Controller
+[main] - Enter 2 for User Controller
+[main] - Enter 3 for Guest Controller
+[main] - Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Enter Flight Id
+Enter flight Company
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Enter Flight Id
+Enter flight Company
+Invalid flight company it must be 3 to 25 char long without space
+Enter flight Company
+Invalid flight company it must be 3 to 25 char long without space
+Enter flight Company
+Enter Departure Date
+Invalid format it must be like dd/MM/yyyy formate
+Enter Departure Date
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Enter Flight Id
+Invalid Flight Id it must be 7 to 14 char long without space
+Enter Flight Id
+Enter flight Company
+Invalid flight company it must be 3 to 25 char long without space
+Enter flight Company
+Enter Departure Date
+Enter Departure Time
+Invalid Departure Time
+Enter Departure Time
+Invalid Departure Time
+Enter Departure Time
+Enter Arrival Date
+Enter  Arrival Time
+Invalid Arrival Time it must be greater then departure time
+Enter  Arrival Time
+Enter Source
+Invalid source city
+Enter Source
+Invalid source city
+Enter Source
+Enter Destination
+Enter Total Seats
+Invalid total seats 
+Enter Total Seats
+Invalid total seats 
+Enter Total Seats
+Enter Fare of Flight
+Flight Added Successfully
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter User Id
+Enter First Name
+invalid first name it must contain only alphabets without space
+Enter First Name
+Enter Last Name
+Enter Email Address
+Invalid Email Address it must be like xyz@example.com
+Enter Email Address
+Invalid Email Address it must be like xyz@example.com
+Enter Email Address
+Enter Password
+Enter Residence
+Invalid Residence
+Enter Residence
+Enter Mobile Number
+Enter Nationality
+Enter Gender
+User Register Successfully
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter User Id
+Enter First Name
+Enter Last Name
+Enter Email Address
+Enter Password
+Enter Residence
+Enter Mobile Number
+Invalid mobile no.
+Enter Mobile Number
+Invalid mobile no.
+Enter Mobile Number
+Enter Nationality
+Enter Gender
+User Register Successfully
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Invalid source
+Enter the Source
+Invalid source
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter your USERID
+Enter your password
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+flight details:FlightInfoBean(flightId=AirAsia110, flightCompany=AirAsia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Bengaluru, destination=Ladakh, fare=4980.0, totalSeats=50, availableSeat=50)
+enter Flight Id
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Enter Flight Id
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+
+Enter 1 for go back
+Wrong choice
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Wrong Choice! Try Again
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Wrong Choice! Try Again
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Available Flights:FlightInfoBean(flightId=AirAsia110, flightCompany=AirAsia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Bengaluru, destination=Ladakh, fare=4980.0, totalSeats=50, availableSeat=0)
+Available Flights:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=0)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Enter Flight Id which cancelled seat you are looking for
+There is no Cancelled Tickets available for this flight!
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter your USERID
+Enter your password
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter your USERID
+Enter your password
+Invalid Credential! try again
+Would you like to continue
+Press Y
+Enter your USERID
+Enter your password
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+There is not any flight available !
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+flight details:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=0)
+enter Flight Id
+Enter no of tickets you want?
+this flight is not going from 'MUMBAI' to 'GOA'
+Invalid Seats
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter your USERID
+Enter your password
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+flight details:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+enter Flight Id
+Enter no of tickets you want?
+Enter only Integer value
+Invalid No of Seats
+Enter the Source
+Invalid source
+Enter the Source
+Invalid source
+Enter the Source
+Enter the Destination
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for User login
+Enter 2 for User Registration
+Enter 3 for go back
+Enter Your Choice
+Enter your USERID
+Enter your password
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter the Source
+Enter the Destination
+Invalid destination
+Enter the Destination
+flight details:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+enter Flight Id
+Enter no of tickets you want?
+Your ticket has been Booked Successfully
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Reserved Tickets:TicketInfoBean(noOfSeats=1, ticketId=abhinav#AirIndia110#1, userDetails=UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male), flightDetails=FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=49), totalFare=2980.0, status=reserved)
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+enter Ticket Id
+Your Ticket has been cancelled
+
+Enter 1 for go back
+Wrong choice
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+You do not have any Reserved Ticket
+
+Enter 1 for go back
+Wrong choice
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Enter First Name
+Invalid First Name
+Enter First Name
+Enter Last Name
+invalid Last Name
+Enter Last Name
+Enter Email Address
+Enter Password
+Enter Residence
+Enter Mobile Number
+Invalid Mobile Number
+Enter Mobile Number
+Enter Nationality
+Invalid Nationality
+Enter Nationality
+User Details Updated Successfully
+
+Enter 1 for go back
+Enter 1 for Book Flight
+Enter 2 for Cancel Reserved Ticket
+Enter 3 for Update User details
+Enter 4 for view your reserved tickets
+Enter 5 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+All Users:UserInfoBean(userId=abhinav, firstName=zkjcszkjcsz, lastName=wjqorkfesx, nationality=cjzxjjdx, residence=adshcmsa cmz, mobile=1234567891, mail=sajak@q1414, password=dxja sd, role=user, gender=Male)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Available Flights:FlightInfoBean(flightId=AirAsia110, flightCompany=AirAsia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Bengaluru, destination=Ladakh, fare=4980.0, totalSeats=50, availableSeat=50)
+Available Flights:FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for Search Flights
+Enter 2 for Show Company Contacts
+Enter 3 for go back
+Enter the Source
+Invalid source city
+Enter the Source
+Enter the destination
+There is no flight available from ASRDFT to ZSXDCFVGBN
+Enter 1 for go back
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for Search Flights
+Enter 2 for Show Company Contacts
+Enter 3 for go back
+Enter the Source
+Enter the destination
+FlightInfoBean(flightId=AirIndia110, flightCompany=AirIndia, departureDate=17/03/2020, departureTime=5:30 PM, arrivalDate=25/03/2020, arrivalTime=6:17 PM, source=Mumbai, destination=Goa, fare=2980.0, totalSeats=50, availableSeat=50)
+Enter 1 for go back
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for Search Flights
+Enter 2 for Show Company Contacts
+Enter 3 for go back
+Enter Company Name
+ContactInfoBean(contactNo=1234567890, contactName=Uday Verma, flightCompany=GoAir)
+Enter 1 for go back
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter 1 for Search Flights
+Enter 2 for Show Company Contacts
+Enter 3 for go back
+Enter Company Name
+ContactInfoBean(contactNo=9074099249, contactName=Abhinav Singh, flightCompany=IndiGo)
+Enter 1 for go back
+Wrong Choice! try again
+Enter 1 for Search Flights
+Enter 2 for Show Company Contacts
+Enter 3 for go back
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Invalid Credential! try again
+Press Y for Continue
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+All Users:UserInfoBean(userId=nethraAlakal, firstName=Nethra, lastName=Alakal Surendra, nationality=Indian, residence=Kerala, mobile=875033236, mail=nethra@gmail.com, password=123456, role=admin, gender=Female)
+All Users:UserInfoBean(userId=ramya303, firstName=Ramya, lastName=Atthuluri, nationality=Indian, residence=Andhra, mobile=976332036, mail=ramya@gmail.com, password=123456, role=admin, gender=Female)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Wrong Choice! Try Again
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+All Users:UserInfoBean(userId=nethraAlakal, firstName=Nethra, lastName=Alakal Surendra, nationality=Indian, residence=Kerala, mobile=875033236, mail=nethra@gmail.com, password=123456, role=admin, gender=Female)
+All Users:UserInfoBean(userId=ramya303, firstName=Ramya, lastName=Atthuluri, nationality=Indian, residence=Andhra, mobile=976332036, mail=ramya@gmail.com, password=123456, role=admin, gender=Female)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+All Users:UserInfoBean(userId=architagar, firstName=Archit, lastName=Agarwal, nationality=Indian, residence=Bijnor, mobile=7055033236, mail=architagar@gmail.com, password=123456, role=admin, gender=Male)
+All Users:UserInfoBean(userId=abhinav, firstName=Abhinav, lastName=Singh, nationality=Indian, residence=Bhopal, mobile=9074099249, mail=abhinavsingh2792@gmail.com, password=123456, role=user, gender=Male)
+All Users:UserInfoBean(userId=nethraAlakal, firstName=Nethra, lastName=Alakal Surendra, nationality=Indian, residence=Kerala, mobile=875033236, mail=nethra@gmail.com, password=123456, role=admin, gender=Female)
+All Users:UserInfoBean(userId=ramya303, firstName=Ramya, lastName=Atthuluri, nationality=Indian, residence=Andhra, mobile=976332036, mail=ramya@gmail.com, password=123456, role=admin, gender=Female)
+
+Enter 1 for go back
+Enter 1 for Add Flight
+Enter 2 for View Reserved Tickets
+Enter 3 for View Cancelled Tickets
+Enter 4 for View All Users
+Enter 5 for  View All the Flights
+Enter 6 for go back
+Enter your choice
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+main -Welcome to Airline Reservation System
+main -Enter 1 for Admin Controller
+main -Enter 2 for User Controller
+main -Enter 3 for Guest Controller
+main -Enter what you want
+main -Welcome to Airline Reservation System
+main -Enter 1 for Admin Controller
+main -Enter 2 for User Controller
+main -Enter 3 for Guest Controller
+main -Enter what you want
+main -Enter your ADMINID
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
+Enter your ADMINID
+Enter your password
+Invalid Credential! try again
+Press Y for Continue
+Welcome to Airline Reservation System
+Enter 1 for Admin Controller
+Enter 2 for User Controller
+Enter 3 for Guest Controller
+Enter what you want
